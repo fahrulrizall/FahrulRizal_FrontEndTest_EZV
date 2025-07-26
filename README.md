@@ -11,11 +11,11 @@ A minimal pagination example built using **Next.js** and React, demonstrating ho
 
 ## 📁 Project Structure
 
-src/
-├── pages/
-│ └── index.js # Main page with pagination logic
-└── styles/
-└── globals.css # Global styles (if any)
+-src
+--pages
+--service
+--styles
+store
 
 > Note: All main logic lives in `src/pages/index.js`.
 
